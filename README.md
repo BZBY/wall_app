@@ -1,4 +1,4 @@
-![image](https://github.com/BZBY/wall_app/assets/43779380/e61cfa32-1984-48a4-a58a-f2e3469c5e16)# Wall App
+# Wall App
 
 ## 介绍
 
