@@ -6,8 +6,8 @@ Wall App 是一个壁纸应用项目，旨在展示来自某未知壁纸网站�
 
 ## 视频演示
 
-为了更直观地展示应用的功能和用户界面，我准备了一个视频演示：点击查看演示视频](https://www.bilibili.com/video/BV1JC41157s5/)
-
+为了更直观地展示应用的功能和用户界面，我准备了一个视频演示：点击查看演示视频]([https://www.bilibili.com/video/BV1JC41157s5/](https://www.bilibili.com/video/BV1JC41157s5/))
+https://www.bilibili.com/video/BV1JC41157s5/
 ## 后端接口
 
 后端服务实现了以下接口，支持应用的核心功能：
